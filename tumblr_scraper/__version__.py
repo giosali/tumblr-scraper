@@ -1,0 +1,8 @@
+__title__ = "tumblr-scraper"
+__description__ = "A command-line scraper written in Python for tumblr."
+__url__ = "https://github.com/giosali/tumblr-scraper"
+__version__ = "0.1.0"
+__author__ = "Giovanni Salinas"
+__author_email__ = "gbs3@protonmail.com"
+__license__ = "MIT"
+__copyright__ = "Copyright 2021 Giovanni Salinas"
